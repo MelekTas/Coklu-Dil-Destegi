@@ -1,0 +1,14 @@
+{
+    "pizzaBaslik": "Beef Cheese",
+    "peynirYazi" : "Cheese",
+    "zeytinYazi" : "Olive",
+    "sucukYazi" : "Sausage",
+    "biberYazi" : "Pepper",
+    "teslimatSure" : "20 min",
+    "teslimatBaslik" : "Delivery",
+    "pizzaAciklama" : "Meat lover,get ready to meet your pizza!",
+    "fiyat" : "$5.95",
+    "butonYazi" : "ADD TO CART"
+    
+
+}
